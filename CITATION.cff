@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the companion ICAIS 2026 paper when using these artifacts."
+title: "From KV Progress to Serving Goodput: Mechanism and Admission in Cross-Vendor PD"
+type: software
+version: "v42_1"
+authors:
+  - family-names: Qian
+    given-names: Ruxiao
+    affiliation: xjlab
+  - family-names: Zeng
+    given-names: Li
+    affiliation: National University of Defense Technology
+  - family-names: Liang
+    given-names: Dong
+    affiliation: xjlab
+  - family-names: LI
+    given-names: Yang
+    affiliation: Chidao AI
+    email: liyang@litlit.ai
+repository-code: "https://github.com/ruxiao/kv-progress-serving-goodput"
+url: "https://github.com/ruxiao/kv-progress-serving-goodput/releases/tag/v42_1"
